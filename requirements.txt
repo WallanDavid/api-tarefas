@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+celery[redis]
+redis
+sqlalchemy
+pydantic
